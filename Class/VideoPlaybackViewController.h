@@ -6,8 +6,8 @@
 //  Copyright © 2017年 wangynalei. All rights reserved.
 //
 
-#import "RootViewController.h"
+#import <UIKit/UIKit.h>
 
-@interface VideoPlaybackViewController : RootViewController
+@interface VideoPlaybackViewController :UIViewController
 
 @end
