@@ -8,7 +8,7 @@
 
 #import "VideoCell.h"
 #import "VideoModel.h"
-#import "UIImageView+WebCache.h"
+
 
 @implementation VideoCell
 
