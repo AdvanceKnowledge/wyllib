@@ -10,7 +10,7 @@
 
 @interface VideoPlaybackViewController :UIViewController
 
-//名称全部改为小写后
+//名称全部改为小写后2
 
 
 
